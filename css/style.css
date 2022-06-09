@@ -1,0 +1,58 @@
+body{
+    background-color:blanchedalmond ;
+   
+
+}
+
+
+.div,p{
+    text-align: center;
+}
+   
+.divPt{
+    width: 25px;
+    text-align: center;
+    height: 15px;
+    font-size: 25px;
+    padding: 5px;
+    background: url("https://upload.wikimedia.org/wikipedia/en/a/a4/Flag_of_the_United_States.svg") no-repeat ;
+    background-size: 100%;
+  
+}
+
+
+.divEn{
+    width: 25px;
+    text-align: center;
+    height: 15px;
+    font-size: 25px;
+    padding: 5px;
+    background: url("https://upload.wikimedia.org/wikipedia/en/0/05/Flag_of_Brazil.svg") no-repeat ;
+    background-size: 100%;
+ 
+    
+
+
+}
+#img{
+    border: solid white 0px;
+   width: 25%;
+    
+}
+
+
+img{
+    border: solid grey 15px;
+   width: 25%;
+    
+}
+
+
+
+@media only screen and (max-width: 600px) {
+    img {
+        width: 75%;
+        padding: 2px;
+        border: solid grey 15px;
+    }
+  }
