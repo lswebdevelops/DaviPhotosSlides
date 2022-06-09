@@ -16,7 +16,7 @@
             <img id="img"> </a>
     </div>
 	<div class="div">
-    	<img src="imag00.jpg" id="myimage"
+    	<img src="images/imag00.jpg" id="myimage"
        >
     </div>
     
